@@ -22,41 +22,41 @@ function Home() {
           image="https://images-na.ssl-images-amazon.com/images/I/51ySbrzDyiL._AC_US240_FMwebp_QL65_.jpg"
         />
         <Product
-          id="12121"
+          id="41"
           title=" The lean Startup: How Innovation started creates radically successful Business Paperback"
-          price={11.9}
+          price={24.9}
           rating={5}
           image="https://m.media-amazon.com/images/I/81ufrbnPx-L._AC_UY327_FMwebp_QL65_.jpg"
         />
       </div>
       <div className="home__row">
         <Product
-          id="12121"
+          id="85"
           title=" The lean Startup: How Innovation started creates radically successful Business Paperback"
-          price={11.9}
+          price={87.9}
           rating={5}
           image="https://m.media-amazon.com/images/I/91dwoBmSshL._AC_UY327_FMwebp_QL65_.jpg"
         />
         <Product
-          id="12121"
+          id="75"
           title=" The lean Startup: How Innovation started creates radically successful Business Paperback"
-          price={11.9}
+          price={86.9}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/I/31tjqEV7OHL._AC_US327_FMwebp_QL65_.jpg"
         />
         <Product
-          id="12121"
+          id="74"
           title=" The lean Startup: How Innovation started creates radically successful Business Paperback"
-          price={11.9}
+          price={52.9}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2019/July/amazonbasics_520x520._SY304_CB442725065_.jpg"
         />
       </div>
       <div className="home__row">
         <Product
-          id="12121"
+          id="56"
           title=" The lean Startup: How Innovation started creates radically successful Business Paperback"
-          price={11.9}
+          price={119.9}
           rating={5}
           image="https://m.media-amazon.com/images/I/41+CXFgQwjL._AC_UY327_FMwebp_QL65_.jpg"
         />
